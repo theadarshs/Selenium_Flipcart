@@ -37,3 +37,106 @@
 2023-05-16 12:55:15,094 :INFO : test_e2e :searching done
 2023-05-16 13:03:47,579 :INFO : test_e2e :login id or paasword
 2023-05-16 13:03:55,930 :INFO : test_e2e :searching done
+2023-05-17 17:31:18,938 :INFO : test_e2e :login id or paasword
+2023-05-17 17:31:27,289 :INFO : test_e2e :searching done
+2023-05-17 17:32:08,120 :INFO : test_e2e :login id or paasword
+2023-05-17 17:32:16,519 :INFO : test_e2e :searching done
+2023-05-17 17:33:31,908 :INFO : test_e2e :login id or paasword
+2023-05-17 17:33:40,787 :INFO : test_e2e :searching done
+2023-05-17 17:34:42,784 :INFO : test_e2e :addtocartdone
+2023-05-17 17:35:06,832 :INFO : test_e2e :login id or paasword
+2023-05-17 17:35:15,276 :INFO : test_e2e :searching done
+2023-05-17 17:45:36,828 :INFO : test_e2e :login id or paasword
+2023-05-17 17:45:45,398 :INFO : test_e2e :searching done
+2023-05-17 17:45:50,399 :INFO : test_e2e :addtocartdone
+2023-05-17 17:50:48,408 :INFO : test_e2e :login id or paasword
+2023-05-17 17:50:56,890 :INFO : test_e2e :searching done
+2023-05-17 17:52:01,430 :INFO : test_e2e :login id or paasword
+2023-05-17 17:52:09,786 :INFO : test_e2e :searching done
+2023-05-17 17:54:06,834 :INFO : test_e2e :login id or paasword
+2023-05-17 17:54:15,664 :INFO : test_e2e :searching done
+2023-05-17 17:54:54,559 :INFO : test_e2e :login id or paasword
+2023-05-17 17:55:02,893 :INFO : test_e2e :searching done
+2023-05-17 17:55:38,225 :INFO : test_e2e :login id or paasword
+2023-05-17 17:55:46,571 :INFO : test_e2e :searching done
+2023-05-17 17:58:23,657 :INFO : test_e2e :login id or paasword
+2023-05-17 17:58:32,039 :INFO : test_e2e :searching done
+2023-05-17 18:00:25,937 :INFO : test_e2e :login id or paasword
+2023-05-17 18:00:34,807 :INFO : test_e2e :searching done
+2023-05-17 18:01:41,309 :INFO : test_e2e :login id or paasword
+2023-05-17 18:01:49,656 :INFO : test_e2e :searching done
+2023-05-17 18:02:49,389 :INFO : test_e2e :login id or paasword
+2023-05-17 18:02:57,818 :INFO : test_e2e :searching done
+2023-05-17 18:04:16,115 :INFO : test_e2e :login id or paasword
+2023-05-17 18:04:24,472 :INFO : test_e2e :searching done
+2023-05-17 18:11:51,956 :INFO : test_e2e :login id or paasword
+2023-05-17 18:12:00,329 :INFO : test_e2e :searching done
+2023-05-17 18:13:18,173 :INFO : test_e2e :login id or paasword
+2023-05-17 18:13:26,519 :INFO : test_e2e :searching done
+2023-05-17 18:14:03,789 :INFO : test_e2e :login id or paasword
+2023-05-17 18:14:12,157 :INFO : test_e2e :searching done
+2023-05-17 18:14:27,456 :INFO : test_e2e :addtocartdone
+2023-05-17 18:16:28,467 :INFO : test_e2e :login id or paasword
+2023-05-17 18:16:36,823 :INFO : test_e2e :searching done
+2023-05-17 18:16:52,130 :INFO : test_e2e :addtocartdone
+2023-05-17 18:19:12,678 :INFO : test_e2e :login id or paasword
+2023-05-17 18:19:20,999 :INFO : test_e2e :searching done
+2023-05-17 18:21:42,962 :INFO : test_e2e :login id or paasword
+2023-05-17 18:21:51,326 :INFO : test_e2e :searching done
+2023-05-17 18:22:49,741 :INFO : test_e2e :login id or paasword
+2023-05-17 18:22:58,110 :INFO : test_e2e :searching done
+2023-05-17 18:25:16,811 :INFO : test_e2e :login id or paasword
+2023-05-17 18:25:25,143 :INFO : test_e2e :searching done
+2023-05-17 18:26:06,685 :INFO : test_e2e :login id or paasword
+2023-05-17 18:26:15,035 :INFO : test_e2e :searching done
+2023-05-17 18:29:35,478 :INFO : test_e2e :login id or paasword
+2023-05-17 18:29:43,833 :INFO : test_e2e :searching done
+2023-05-17 18:30:04,328 :INFO : test_e2e :login id or paasword
+2023-05-17 18:30:12,672 :INFO : test_e2e :searching done
+2023-05-17 18:31:19,501 :INFO : test_e2e :login id or paasword
+2023-05-17 18:31:27,824 :INFO : test_e2e :searching done
+2023-05-17 18:32:27,577 :INFO : test_e2e :login id or paasword
+2023-05-17 18:32:36,033 :INFO : test_e2e :searching done
+2023-05-17 18:33:51,072 :INFO : test_e2e :login id or paasword
+2023-05-17 18:33:59,485 :INFO : test_e2e :searching done
+2023-05-17 18:35:49,522 :INFO : test_e2e :login id or paasword
+2023-05-17 18:35:57,896 :INFO : test_e2e :searching done
+2023-05-17 18:40:50,707 :INFO : test_e2e :login id or paasword
+2023-05-17 18:40:59,029 :INFO : test_e2e :searching done
+2023-05-17 18:44:28,923 :INFO : test_e2e :login id or paasword
+2023-05-17 18:44:37,250 :INFO : test_e2e :searching done
+2023-05-17 18:44:52,820 :INFO : test_e2e :addtocartdone
+2023-05-17 18:48:04,451 :INFO : test_e2e :login id or paasword
+2023-05-17 18:48:12,785 :INFO : test_e2e :searching done
+2023-05-17 18:49:08,120 :INFO : test_e2e :login id or paasword
+2023-05-17 18:49:16,534 :INFO : test_e2e :searching done
+2023-05-17 18:49:35,846 :INFO : test_e2e :addtocartdone
+2023-05-17 18:50:08,259 :INFO : test_e2e :login id or paasword
+2023-05-17 18:50:16,605 :INFO : test_e2e :searching done
+2023-05-17 18:51:00,248 :INFO : test_e2e :login id or paasword
+2023-05-17 18:51:08,578 :INFO : test_e2e :searching done
+2023-05-17 18:51:27,904 :INFO : test_e2e :addtocartdone
+2023-05-17 18:52:11,743 :INFO : test_e2e :login id or paasword
+2023-05-17 18:52:20,050 :INFO : test_e2e :searching done
+2023-05-17 18:52:57,357 :INFO : test_e2e :login id or paasword
+2023-05-17 18:53:05,725 :INFO : test_e2e :searching done
+2023-05-17 18:56:05,758 :INFO : test_e2e :login id or paasword
+2023-05-17 18:56:14,078 :INFO : test_e2e :searching done
+2023-05-17 18:56:37,666 :INFO : test_e2e :addtocartdone
+2023-05-17 18:56:58,245 :INFO : test_e2e :login id or paasword
+2023-05-17 18:57:06,647 :INFO : test_e2e :searching done
+2023-05-17 18:57:30,939 :INFO : test_e2e :addtocartdone
+2023-05-17 18:58:51,421 :INFO : test_e2e :login id or paasword
+2023-05-17 18:58:59,778 :INFO : test_e2e :searching done
+2023-05-17 18:59:23,596 :INFO : test_e2e :addtocartdone
+2023-05-17 19:00:02,833 :INFO : test_e2e :login id or paasword
+2023-05-17 19:00:11,243 :INFO : test_e2e :searching done
+2023-05-17 19:00:37,003 :INFO : test_e2e :login id or paasword
+2023-05-17 19:00:45,373 :INFO : test_e2e :searching done
+2023-05-17 19:01:09,244 :INFO : test_e2e :addtocartdone
+2023-05-17 19:15:51,340 :INFO : test_e2e :login id or paasword
+2023-05-17 19:15:59,779 :INFO : test_e2e :searching done
+2023-05-17 19:16:26,168 :INFO : test_e2e :login id or paasword
+2023-05-17 19:16:34,562 :INFO : test_e2e :searching done
+2023-05-17 19:16:56,593 :INFO : test_e2e :login id or paasword
+2023-05-17 19:17:05,001 :INFO : test_e2e :searching done

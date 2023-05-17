@@ -22,3 +22,4 @@ class TestOne(BaseClass):
         time.sleep(5)
         cart= Addtocart.AddToCart(self)
         log.info("addtocartdone")
+
