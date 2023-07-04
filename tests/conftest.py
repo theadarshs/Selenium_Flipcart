@@ -22,7 +22,7 @@ def setup(request):
         driver = webdriver.Chrome(executable_path="C:\selenium driver\chromedriver_win32\chromedriver.exe")
     elif browser_name == "firefox":
         options.binary_location = r'C:\Program Files\Mozilla Firefox\firefox.exe'
-        service_obj = Service(r'C:\Users\Abhishek Singh\Downloads\geckodriver-v0.31.0-win64\geckodriver.exe')
+        service_obj = Service(r'C:\Users\AdarshSingh\Downloads\geckodriver-v0.31.0-win64\geckodriver.exe')
         driver = webdriver.Firefox(service=service_obj)
 
     elif browser_name == "IE":
